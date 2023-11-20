@@ -70,8 +70,6 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 ## Instalação
 
 
-##
-
 ## 🗃 Histórico de lançamentos
 
 ## 🎓 Referências
