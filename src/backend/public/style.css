@@ -503,3 +503,15 @@
         transform-origin: left;
     }
 }
+
+
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
+}
+ 
+.fade-in.show {
+    opacity: 1;
+    transform: translateY(0);
+}
