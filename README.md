@@ -49,7 +49,7 @@
 
 ### 💻 Bibliotecas: <br> 
 - **React**:
-<p>React-router: Serve para criar rotas no front-end/p>
+<p>React-router: Serve para criar rotas no front-end</p>
 <p>Styled-components: Estilização</p>
 
 - **Node.js**:
