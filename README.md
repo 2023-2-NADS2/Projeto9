@@ -98,15 +98,30 @@
          - `READ.ME`
 - `READ.ME`       
 
-## 🛠 Instalação
-
-Para configurar e executar o projeto localmente, siga estas etapas:
-
 ## Pré-requisitos
 - Node.js 
 - NPM 
 - MySQL
+
 ## Instalação
+
+1. Clone o repositório do projeto:
+   ```sh
+   git clone https://github.com/2023-2-NADS2/Projeto9
+   ```
+2. Navegue até a pasta do projeto e instale as dependências:
+   ```sh
+   cd Projeto-02-Semestre-Main
+   npm install
+   ```
+3. Inicie o terminal na pasta do projeto, e rode o comando:
+   ```sh
+   npm run dev
+   ```
+4. Abra o navegador e acesse `http://localhost:3000` para visualizar o site.
+
+
+
 
 
 ## 🗃 Histórico de lançamentos
