@@ -71,6 +71,17 @@
         - `public`
         - `src`
             - `config`
+            - `controllers`
+            - `imagens`
+            - `models`
+            - `routes`
+            - `services`
+            - `.gitinore`
+            - `index.js`
+            - `package-lock.json`
+            - `package.json`
+            - `server.js`
+  - `frontend`       
 
 ## 🛠 Instalação
 
