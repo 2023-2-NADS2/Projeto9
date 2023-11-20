@@ -71,4 +71,10 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 
 ### 
 
+## 🗃 Histórico de lançamentos
 
+## 🎓 Referências
+1. <https://github.com/>
+2. <https://fonts.google.com/>
+3. <https://https://figma.com/>
+4. <https://getbootstrap.com/>
