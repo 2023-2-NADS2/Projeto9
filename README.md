@@ -9,7 +9,7 @@
 ## Integrantes:
 <a href="https://www.linkedin.com/in/mateusmonteiroaugusto/">Mateus Monteiro Augusto</a>, <br>
 <a href="https://br.linkedin.com/in/mateusspiccinin">Mateus Souza Piccinin</a>, <br>
-<a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, <br>
+<a href="https://github.com/2023-2-NADS2/Projeto9">Pedro Henrique Regueiro</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Wilson Testoni Junior</a>
 <a href="https://www.linkedin.com/in/victorbarq/">Victor Barcelos de Araújo</a>
