@@ -7,7 +7,7 @@
 # Projeto Educa Social
 
 ## Integrantes:
-<a href="https://www.linkedin.com/in/victorbarq/">Mateus Monteiro Augusto</a>, <br>
+<a href="https://www.linkedin.com/in/mateusmonteiroaugusto/">Mateus Monteiro Augusto</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Mateus Souza Piccinin</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, <br>
@@ -46,6 +46,7 @@
 
 ### UX/UI Design
 - <a href="https://www.figma.com/file/M33fxI2bjVKQenw25Oj4E4/Wireframe-P03?type=design&node-id=0-1&mode=design"> Wireframe</a><br>
+- <a href="https://www.figma.com/file/rRDqPpipYdsBG4X91Bhqaa/Layout-E03?type=design&node-id=0-1&mode=design"> Desenvolvimento de layout</a><br>
 <br>
 
 ## 💻 Bibliotecas: <br> 
@@ -65,13 +66,33 @@
 Para configurar e executar o projeto localmente, siga estas etapas:
 
 ## Pré-requisitos
-
-
+- Node.js 
+- NPM 
+- MySQL
 ## Instalação
 
 
 ## 🗃 Histórico de lançamentos
+* 1 - 14/08/2023
+    * Início: Dia que foi determinado o tema;
+* 2 - 18/08/2023
+    * primeiras ideias
+* 3 - 31/08/2023
+    * Definido parceiro: Educa Nexus
+* 4 - 07/09/2023
+    * Primeiras ideias de como vai ser o site
+* 5 - 13/09/2023
+    * Desenvolvimento da Logo e do layout do site
+* 6 - 15/10/2023
+    * Início do desenvolvimento em HTML, CSS, JavaScript e React 
+* 7 - 01/11/2023
+    * Front-end concluido
+    * Início do Back-end criado em Node.js e mysql
+* 8 - 17/11/2023
+    * Finalização do site
+    * Ajustes finais
 
+  
 ## 🎓 Referências
 1. <https://github.com/>
 2. <https://fonts.google.com/>
