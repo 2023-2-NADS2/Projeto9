@@ -45,6 +45,7 @@
 - **MySQL**: Sistema de gerenciamento de banco de dados para armazenamento de dados do site.
 
 ### UX/UI Design
+- <a href="https://www.figma.com/file/M33fxI2bjVKQenw25Oj4E4/Wireframe-P03?type=design&node-id=0-1&mode=design"> Wireframe</a><br>
 <br>
 
 ### 💻 Bibliotecas: <br> 
