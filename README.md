@@ -8,10 +8,11 @@
 
 ## Integrantes:
 <a href="https://www.linkedin.com/in/mateusmonteiroaugusto/">Mateus Monteiro Augusto</a>, <br>
-<a href="https://www.linkedin.com/in/victorbarq/">Mateus Souza Piccinin</a>, <br>
+<a href="https://br.linkedin.com/in/mateusspiccinin">Mateus Souza Piccinin</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Wilson Testoni Junior</a>
+<a href="https://www.linkedin.com/in/victorbarq/">Victor Barcelos de Araújo</a>
 
 ## Professores Orientadores: 
 <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Me. Adriano Felix Valente</a>, <br>
