@@ -31,9 +31,9 @@
 
 ### Objetivos: <br>
 <p>Educa Social é fruto do nosso projeto integrador no segundo semestre da faculdade. Nosso compromisso é proporcionar oportunidades educacionais gratuitas para aqueles que não têm recursos para investir em cursos, mas que buscam qualidade. </p>
-<p> Em parceria com o Educa Nexus, conseguimos um código de desconto exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p>
+<p> Em parceria com o Educa Nexus, conseguimos um código de desconto exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p> <br>
 
-### Tecnologias: <br>
+### 💻 Tecnologias: <br>
 ### Front-end
 - **HTML**: Estrutura semântica do site.
 - **CSS**: Estilos para a apresentação do site, com várias concatenações de diversas folhas de estilo para melhor organização e manutenção do código.
