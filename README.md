@@ -67,9 +67,10 @@
     - `logo.png`
 - `src`
     - `backend`
-        - `footer`: Componentes que compõem o final do site.
-        - `header`: Componentes da barra de navegação.
-        - `mobile-menu`: Componentes da barra de navegação mobile.
+        - `node_modules`
+        - `public`
+        - `src`
+            - `config`
 
 ## 🛠 Instalação
 
