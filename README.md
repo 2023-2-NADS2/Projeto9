@@ -33,7 +33,7 @@
 <p>Educa Social é fruto do nosso projeto integrador no segundo semestre da faculdade. Nosso compromisso é proporcionar oportunidades educacionais gratuitas para aqueles que não têm recursos para investir em cursos, mas que buscam qualidade. </p>
 <p> Em parceria com o Educa Nexus, conseguimos um código de desconto exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p> <br>
 
-### 💻 Tecnologias: <br>
+## 💻 Tecnologias: <br>
 ### Front-end
 - **HTML**: Estrutura semântica do site.
 - **CSS**: Estilos para a apresentação do site, com várias concatenações de diversas folhas de estilo para melhor organização e manutenção do código.
@@ -48,7 +48,7 @@
 - <a href="https://www.figma.com/file/M33fxI2bjVKQenw25Oj4E4/Wireframe-P03?type=design&node-id=0-1&mode=design"> Wireframe</a><br>
 <br>
 
-### 💻 Bibliotecas: <br> 
+## 💻 Bibliotecas: <br> 
 - **React**:
 <p>React-router: Serve para criar rotas no front-end</p>
 <p>Styled-components: Estilização</p>
@@ -64,13 +64,13 @@
 
 Para configurar e executar o projeto localmente, siga estas etapas:
 
-### Pré-requisitos
+## Pré-requisitos
 
 
-### Instalação
+## Instalação
 
 
-### 
+##
 
 ## 🗃 Histórico de lançamentos
 
