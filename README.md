@@ -4,12 +4,10 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
-
-## Nome do Grupo
+# Projeto Educa Social
 
 ## Integrantes: 
-<a href="https://www.linkedin.com/in/victorbarq/">Mateus Monteiro Augusto</a>, 
+<a href="https://www.linkedin.com/in/victorbarq/">Mateus Monteiro Augusto</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Mateus Souza Piccinin</a>, 
 <a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, 
 <a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, 
