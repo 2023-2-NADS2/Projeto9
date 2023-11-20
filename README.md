@@ -82,20 +82,20 @@
             - `package.json`
             - `server.js`
   - `frontend`
-        - `node_modules`
-        - `public`
-        - `src`
-          - `config`
-            - `controllers`
-            - `imagens`
-            - `models`
-            - `routes`
-            - `services`
-            - `.gitinore`
-            - `index.js`
-            - `package-lock.json`
-            - `package.json`
-            - `server.js`  
+          - `node_modules`
+          - `public`
+          - `src`
+            - `config`
+              - `controllers`
+              - `imagens`
+              - `models`
+              - `routes`
+              - `services`
+              - `.gitinore`
+              - `index.js`
+              - `package-lock.json`
+              - `package.json`
+              - `server.js`  
 
 ## 🛠 Instalação
 
