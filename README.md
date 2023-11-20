@@ -64,7 +64,7 @@
 - `nod`: Contém todas as bibliotecas e dependências do projeto.
 - `.next` : Contém a biblioteca do Next JS.
 - `public`: Armazena os arquivos estáticos como imagens, ícones, e videos.
-- `Documentos`: Contém subdiretórios para cada componente reutilizável:
+- `Documentos`
     - `Design de Interface Digital`
     - `Modelagem de Software e Arquitetura de Sistemas`
 
