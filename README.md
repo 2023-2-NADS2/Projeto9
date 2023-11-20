@@ -46,5 +46,6 @@
 
 ### UX/UI Design
 <br>
-### 💻 Bibliotecas: <br>
-**Node.js**: Ambiente de execução JavaScript, utilizado para construir aplicações escaláveis e de alta performance.
+
+### 💻 Bibliotecas: <br> 
+- **Node.js**: - Sequelize: Server para fazer as Queries no banco de dados.
