@@ -59,7 +59,19 @@
 <p>Bcrypt: Usado para encriptar as senhas.</p>
 <p>Multer: Lida com os updates das imagens</p>
 
+## 🛠 Estrutura de pastas
 
+-`Raiz`:<br>
+|<br>
+-`Documentos`:
+  - `Modelagem de Software e Arquitetura de Sistemas`
+  - `Modelagem de Software e Arquitetura de Sistemas`
+|-->imagens<br>
+  &emsp;|logo.png<br>
+|-->src<br>
+  &emsp;|-->Backend<br>
+  &emsp;|-->Frontend<br>
+|readme.md<br>
 
 ## 🛠 Instalação
 
