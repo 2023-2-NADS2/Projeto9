@@ -92,3 +92,21 @@ $(document).ready(function() {
         window.location.href = "http://localhost:3000/login";
     });
 });
+
+$(document).ready(function () {
+   
+    $(window).on("scroll", function () {
+        $(".fade-in").each(function () {
+            if ($(this).offset().top < $(window).scrollTop() + $(window).height()) {
+                $(this).addClass("show");
+            }
+        });
+    });
+ 
+   
+    $(".fade-in").each(function () {
+        if ($(this).offset().top < $(window).scrollTop() + $(window).height()) {
+            $(this).addClass("show");
+        }
+    });
+});
