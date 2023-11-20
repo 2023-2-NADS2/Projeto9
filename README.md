@@ -23,3 +23,10 @@
 
 
 ## Descrição
+<p align="center">
+<img src="https://github.com/2023-2-NADS2/Projeto9/blob/main/logo.png" border="0" width="300"> <br>
+  Projeto Interdisciplinar Sistema Empresarial WEB  <a href="/">
+</p>
+
+
+
