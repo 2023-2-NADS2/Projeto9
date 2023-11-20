@@ -48,4 +48,14 @@
 <br>
 
 ### 💻 Bibliotecas: <br> 
-- **Node.js**: - Sequelize: Server para fazer as Queries no banco de dados.
+- **React**:
+<p>React-router: Serve para criar rotas no front-end/p>
+<p>Styled-components: Estilização</p>
+
+- **Node.js**:
+<p>Sequelize: Serve para fazer as Queries no banco de dados.</p>
+<p>Bcrypt: Usado para encriptar as senhas.</p>
+<p>Multer: Lida com os updates das imagens</p>
+
+
+
