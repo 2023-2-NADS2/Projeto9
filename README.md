@@ -85,14 +85,17 @@
       - `node_modules`
       - `public`
       - `src`
-         - `config`
-         - `config`
-         - `config`
-         - `config`
-         - `config`
-         - `config`
-         - `config`
-        
+         - `components`
+         - `imagens`
+         - `pages`
+         - `routes`
+         - `stles`
+         - `.gitignore`
+         - `config-override.js`
+         - `package-lock.json`
+         - `package.json`
+         - `READ.ME`
+- `READ.ME`       
 
 ## 🛠 Instalação
 
