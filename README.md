@@ -60,13 +60,16 @@
 <p>Multer: Lida com os updates das imagens</p>
 
 ## 🛠 Estrutura de pastas
-
-- `nod`: Contém todas as bibliotecas e dependências do projeto.
-- `.next` : Contém a biblioteca do Next JS.
-- `public`: Armazena os arquivos estáticos como imagens, ícones, e videos.
 - `Documentos`
     - `Design de Interface Digital`
     - `Modelagem de Software e Arquitetura de Sistemas`
+- `imagens`
+    - `logo.png`
+- `src`
+    - `backend`
+        - `footer`: Componentes que compõem o final do site.
+        - `header`: Componentes da barra de navegação.
+        - `mobile-menu`: Componentes da barra de navegação mobile.
 
 ## 🛠 Instalação
 
