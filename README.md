@@ -89,7 +89,7 @@
          - `imagens`
          - `pages`
          - `routes`
-         - `stles`
+         - `styles`
          - `.gitignore`
          - `config-override.js`
          - `package-lock.json`
