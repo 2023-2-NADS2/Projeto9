@@ -82,9 +82,9 @@
             - `package.json`
             - `server.js`
   - `frontend`
-          - `node_modules`
-          - `public`
-          - `src`
+      - `node_modules`
+      - `public`
+      - `src`
         
 
 ## 🛠 Instalação
