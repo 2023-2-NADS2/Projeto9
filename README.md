@@ -30,10 +30,8 @@
 
 
 ### Objetivos: <br>
-<p>Educa Social é fruto do nosso projeto integrador no segundo semestre da faculdade. Nosso compromisso é proporcionar oportunidades educacionais gratuitas para aqueles que não têm recursos para investir em cursos, mas que buscam qualidade. </p> <br>
-<p> Em parceria com o Educa Nexus, conseguimos um código de desconto
-exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma
-totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p>
+<p>Educa Social é fruto do nosso projeto integrador no segundo semestre da faculdade. Nosso compromisso é proporcionar oportunidades educacionais gratuitas para aqueles que não têm recursos para investir em cursos, mas que buscam qualidade. </p><br>
+<p> Em parceria com o Educa Nexus, conseguimos um código de desconto exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p>
 
 
 
