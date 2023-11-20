@@ -10,9 +10,9 @@
 <a href="https://www.linkedin.com/in/mateusmonteiroaugusto/">Mateus Monteiro Augusto</a>, <br>
 <a href="https://br.linkedin.com/in/mateusspiccinin">Mateus Souza Piccinin</a>, <br>
 <a href="https://github.com/2023-2-NADS2/Projeto9">Pedro Henrique Regueiro</a>, <br>
-<a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, <br>
-<a href="https://www.linkedin.com/in/victorbarq/">Wilson Testoni Junior</a>
-<a href="https://www.linkedin.com/in/victorbarq/">Victor Barcelos de Araújo</a>
+<a href="https://github.com/2023-2-NADS2/Projeto9">Thiago Santana Dias</a>, <br>
+<a href="https://www.linkedin.com/in/wilsontestonijunior/">Wilson Testoni Junior</a>
+<a href="https://github.com/2023-2-NADS2/Projeto9">Victor Barcelos de Araújo</a>
 
 ## Professores Orientadores: 
 <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Me. Adriano Felix Valente</a>, <br>
@@ -111,14 +111,17 @@
    ```
 2. Navegue até a pasta do projeto e instale as dependências:
    ```sh
-   cd Projeto-02-Semestre-Main
+   cd frontend
+   npm install
+   <br>
+   cd backend
    npm install
    ```
 3. Inicie o terminal na pasta do projeto, e rode o comando:
    ```sh
-   npm run dev
+   nmp start ou npm run dev
    ```
-4. Abra o navegador e acesse `http://localhost:3000` para visualizar o site.
+4. Abra o navegador e acesse `http://localhost:3001/home` para visualizar o site.
 
 
 
