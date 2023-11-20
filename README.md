@@ -48,6 +48,7 @@
 ### UX/UI Design
 - <a href="https://www.figma.com/file/M33fxI2bjVKQenw25Oj4E4/Wireframe-P03?type=design&node-id=0-1&mode=design"> Wireframe</a><br>
 - <a href="https://www.figma.com/file/rRDqPpipYdsBG4X91Bhqaa/Layout-E03?type=design&node-id=0-1&mode=design"> Desenvolvimento de layout</a><br>
+- <a href="https://www.figma.com/file/oXg4vH8vC21UGe0r3tfDI9/Teste-de-usabilidade?type=design&node-id=0%3A1&mode=design&t=8wSLj4M3Rbb3arVy-1"> Teste de usabilidade</a><br>
 <br>
 
 ## 💻 Bibliotecas: <br> 
