@@ -6,7 +6,7 @@
 
 # Projeto Educa Social
 
-## Integrantes: 
+## Integrantes:
 <a href="https://www.linkedin.com/in/victorbarq/">Mateus Monteiro Augusto</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Mateus Souza Piccinin</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, <br>
