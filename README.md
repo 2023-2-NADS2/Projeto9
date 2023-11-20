@@ -61,17 +61,12 @@
 
 ## 🛠 Estrutura de pastas
 
--`Raiz`:<br>
-|<br>
--`Documentos`:
-    - `Modelagem de Software e Arquitetura de Sistemas`:
-    - `Modelagem de Software e Arquitetura de Sistemas`:
-|-->imagens<br>
-  &emsp;|logo.png<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+- `nod`: Contém todas as bibliotecas e dependências do projeto.
+- `.next` : Contém a biblioteca do Next JS.
+- `public`: Armazena os arquivos estáticos como imagens, ícones, e videos.
+- `Documentos`: Contém subdiretórios para cada componente reutilizável:
+    - `Design de Interface Digital`: Componente do Whatsapp.
+    - `Modelagem de Software e Arquitetura de Sistemas`: Componentes nossos diferenciais.
 
 ## 🛠 Instalação
 
