@@ -95,7 +95,7 @@
             - `index.js`
             - `package-lock.json`
             - `package.json`
-            - `server.js`   
+            - `server.js`  
 
 ## 🛠 Instalação
 
