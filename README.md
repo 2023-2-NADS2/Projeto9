@@ -8,17 +8,17 @@
 
 ## Integrantes: 
 <a href="https://www.linkedin.com/in/victorbarq/">Mateus Monteiro Augusto</a>, <br>
-<a href="https://www.linkedin.com/in/victorbarq/">Mateus Souza Piccinin</a>, 
-<a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, 
-<a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, 
+<a href="https://www.linkedin.com/in/victorbarq/">Mateus Souza Piccinin</a>, <br>
+<a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Regueiro</a>, <br>
+<a href="https://www.linkedin.com/in/victorbarq/">Thiago Santana Dias</a>, <br>
 <a href="https://www.linkedin.com/in/victorbarq/">Wilson Testoni Junior</a>
 
 ## Professores Orientadores: 
-<a href="https://www.linkedin.com/in/adriano-valente-534576135/">Me. Adriano Felix Valente</a>, 
-<a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Dr. Eduardo Savino Gomes</a>, 
-<a href="https://www.linkedin.com/in/aimarlopes/">Me. Aimar Martins Lopes</a>, 
-<a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Bruno Alexander Rosetti de Quiroz</a>,
-<a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">Me. Prof. José Carlos Buesso Jr</a>,
+<a href="https://www.linkedin.com/in/adriano-valente-534576135/">Me. Adriano Felix Valente</a>, <br>
+<a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Dr. Eduardo Savino Gomes</a>, <br>
+<a href="https://www.linkedin.com/in/aimarlopes/">Me. Aimar Martins Lopes</a>, <br>
+<a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Bruno Alexander Rosetti de Quiroz</a>,<br>
+<a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">Me. Prof. José Carlos Buesso Jr</a>, <br>
 <a href="https://www.linkedin.com/in/francisco-escobar/">Me. Francisco de Souza Escobar</a>
 
 
