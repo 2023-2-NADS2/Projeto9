@@ -37,11 +37,14 @@
 ### Front-end
 - **HTML**: Estrutura semântica do site.
 - **CSS**: Estilos para a apresentação do site, com várias concatenações de diversas folhas de estilo para melhor organização e manutenção do código.
-- **JavaScript**: Utilizado para tornar as páginas web interativas e dinâmicas, permitindo a manipulação do conteúdo e a interação com o usuário 
+- **JavaScript**: Utilizado para tornar as páginas web interativas e dinâmicas, permitindo a manipulação do conteúdo e a interação com o usuário
+- **React**:  Biblioteca JavaScript para construção de interfaces de usuário, permitindo a criação de componentes reutilizáveis e atualização eficiente da interface em resposta a mudanças de estado.
 
 ### Back-end
 - **Node.js**: Ambiente de execução JavaScript, utilizado para construir aplicações escaláveis e de alta performance.
-- **React**:  Biblioteca JavaScript para construção de interfaces de usuário, permitindo a criação de componentes reutilizáveis e atualização eficiente da interface em resposta a mudanças de estado.
 - **MySQL**: Sistema de gerenciamento de banco de dados para armazenamento de dados do site.
 
 ### UX/UI Design
+<br>
+### 💻 Bibliotecas: <br>
+**Node.js**: Ambiente de execução JavaScript, utilizado para construir aplicações escaláveis e de alta performance.
