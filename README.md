@@ -23,16 +23,18 @@
 <a href="https://www.linkedin.com/in/francisco-escobar/">Me. Francisco de Souza Escobar</a>
 
 
-## Descrição
+
 <p align="center">
 <img src="https://github.com/2023-2-NADS2/Projeto9/blob/main/Imagens/logo.png" border="0" width="300"> <br>
   Projeto Interdisciplinar Sistema Empresarial WEB  <a href="/">
 </p>
 
+## Descrição: <br>
+<p>Educa Social é fruto do nosso projeto integrador no segundo semestre da faculdade. Nosso compromisso é proporcionar oportunidades educacionais gratuitas para aqueles que não têm recursos para investir em cursos, mas que buscam qualidade. </p>
+<p> Em parceria com o Educa Nexus, conseguimos um código de desconto exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p>
 
 ## Objetivos: <br>
-<p>Educa Social é fruto do nosso projeto integrador no segundo semestre da faculdade. Nosso compromisso é proporcionar oportunidades educacionais gratuitas para aqueles que não têm recursos para investir em cursos, mas que buscam qualidade. </p>
-<p> Em parceria com o Educa Nexus, conseguimos um código de desconto exclusivo. Esse código permite que as pessoas tenham acesso a uma ampla variedade de cursos de forma totalmente gratuita. Acreditamos que o conhecimento transforma vidas, e queremos ser facilitadores desse processo.</p> <br>
+
 
 ## 💻 Tecnologias: <br>
 ### Front-end
