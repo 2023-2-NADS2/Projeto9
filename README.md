@@ -101,7 +101,7 @@
          - `config-override.js`
          - `package-lock.json`
          - `package.json`
-- `READ.ME`       
+- `README`       
 
 ## Pré-requisitos
 - Node.js 
