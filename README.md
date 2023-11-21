@@ -53,14 +53,15 @@
 
 ## 💻 Bibliotecas: <br> 
 - **React**:
-<p>React-router: Usado para criar rotas no front-end</p>
-<p>Styled-components: Usado para estilização no react</p>
+-- <p>React-router: Usado para criar rotas no front-end</p>
+-- <p>Styled-components: Usado para estilização no react</p>
+-- <p>Axios: Utilizado para fazer requisições ao back-end</p>
 
 - **Node.js**:
-<p>Sequelize: Utilizado para criar os modelos das tabelas no BD e para manipulação de dados</p>
-<p>Bcrypt: Usado para encriptar as senhas dos usuários.</p>
-<p>Multer: Utilizado para lidar com os updates das imagens dos cursos</p>
-<p>jsonwebtoken: Utilizado para gerar token de autenticação no momento do login</p>
+-- <p>Sequelize: Utilizado para criar os modelos das tabelas no BD e para manipulação de dados</p>
+-- <p>Bcrypt: Usado para encriptar as senhas dos usuários.</p>
+-- <p>Multer: Utilizado para lidar com os updates das imagens dos cursos</p>
+-- <p>jsonwebtoken: Utilizado para gerar token de autenticação no momento do login</p>
 
 ## 🛠 Estrutura de pastas
 - `Documentos`
