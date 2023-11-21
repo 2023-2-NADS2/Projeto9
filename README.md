@@ -53,13 +53,14 @@
 
 ## 💻 Bibliotecas: <br> 
 - **React**:
-<p>React-router: Serve para criar rotas no front-end</p>
-<p>Styled-components: Estilização</p>
+<p>React-router: Usado para criar rotas no front-end</p>
+<p>Styled-components: Usado para estilização no react</p>
 
 - **Node.js**:
-<p>Sequelize: Serve para fazer as Queries no banco de dados.</p>
-<p>Bcrypt: Usado para encriptar as senhas.</p>
-<p>Multer: Lida com os updates das imagens</p>
+<p>Sequelize: Utilizado para criar os modelos das tabelas no BD e para manipulação de dados</p>
+<p>Bcrypt: Usado para encriptar as senhas dos usuários.</p>
+<p>Multer: Utilizado para lidar com os updates das imagens dos cursos</p>
+<p>jsonwebtoken: Utilizado para gerar token de autenticação no momento do login</p>
 
 ## 🛠 Estrutura de pastas
 - `Documentos`
@@ -69,12 +70,11 @@
     - `logo.png`
 - `src`
     - `backend`
-        - `node_modules`
         - `public`
         - `src`
             - `config`
             - `controllers`
-            - `imagens`
+            - `images`
             - `models`
             - `routes`
             - `services`
@@ -84,11 +84,10 @@
             - `package.json`
             - `server.js`
   - `frontend`
-      - `node_modules`
       - `public`
       - `src`
          - `components`
-         - `imagens`
+         - `images`
          - `pages`
          - `routes`
          - `styles`
@@ -96,7 +95,6 @@
          - `config-override.js`
          - `package-lock.json`
          - `package.json`
-         - `READ.ME`
 - `READ.ME`       
 
 ## Pré-requisitos
@@ -120,7 +118,8 @@
    ```
 3. Inicie o terminal na pasta do projeto, e rode o comando:
    ```sh
-   nmp start ou npm run dev
+   npm start dentro da pasta do frontend
+   npm run dev dentro da pasta do backend
    ```
 4. Abra o navegador e acesse `http://localhost:3001/home` para visualizar o site.
 
@@ -154,3 +153,4 @@
 2. <https://fonts.google.com/>
 3. <https://https://figma.com/>
 4. <https://getbootstrap.com/>
+5. <https://react.dev/>
