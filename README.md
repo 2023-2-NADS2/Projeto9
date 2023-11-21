@@ -35,7 +35,9 @@
 <p>Caso a empresa parceira queira adicionar, editar ou remover algum curso, eles tem a possilibidade de fazer isso com uma conta administrativa sem precisar alterar o codigo</p>
 
 ## Objetivos: <br>
-
+- Disponibilizar cursos gratuitos para aqueles que não têm a capacidade de adquiri-los.
+- Facilitar o acesso à educação de qualidade para aqueles que precisam de ajuda, em parceria com a Educa Nexus, nossa empresa parceira.
+- Facilitar a gestão de cursos por meio de uma conta administrativa reforça nossa missão de tornar o processo educacional mais flexível e adaptável às necessidades em constante evolução.
 
 ## 💻 Tecnologias: <br>
 ### Front-end
