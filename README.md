@@ -46,7 +46,7 @@
 - **JavaScript**: Utilizado para tornar as páginas web interativas e dinâmicas, permitindo a manipulação do conteúdo e a interação com o usuário
 - **React**:  Biblioteca JavaScript para construção de interfaces de usuário, permitindo a criação de componentes reutilizáveis e atualização eficiente da interface em resposta a mudanças de estado.
 
-### Back-end
+### Back-end 
 - **Node.js**: Ambiente de execução JavaScript, utilizado para construir aplicações escaláveis e de alta performance.
 - **MySQL**: Sistema de gerenciamento de banco de dados para armazenamento de dados do site.
 
